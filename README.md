@@ -14,5 +14,5 @@ First I answered 3 questions for customer segmentation
 
 Then I answered 3 questions for customer retention
 * How many customers enrolled each month in 2013? 
-* Is it taking too long for customers to purchase again? How many customers have not made a purchase in over 2 weeks? (10/01/2013 - 9/30/2014)
+* Is it taking too long for customers to purchase again? How many customers who enrolled between 10/01/2013 - 9/30/2014 did not make a purchase in over 2 weeks? 
 * Where are customers making the most purchases? (catalog, in-store, online)
