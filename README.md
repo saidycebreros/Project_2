@@ -11,6 +11,7 @@ First answered 3 questions for customer segmentation
 * How many customers who accepted each campaign were married/have a partner?
 * How many customers who accepted each campaign had children (< 18 years old)?
 * What is the average income of customers who accepted each campaign?
+
 Then looked at 3 questions for customer retention
 * How many customers enrolled each month in 2013? 
 * Is it taking too long for customers to purchase again? How many customers have not made a purchase in over 2 weeks? (10/01/2013 - 9/30/2014)
