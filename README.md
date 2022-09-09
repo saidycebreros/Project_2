@@ -1,7 +1,7 @@
-# Project_2A
-Portfolio Project 2A: EDA using the "Marketing Campaign" Dataset
+# Project2
+Portfolio Project 2: EDA using the "Marketing Campaign" Dataset
 
-In this project I explored a dataset from Kaggle named "Marketing Campaign" in MySQL Workbench. The overall goal of this project is to help a grocery store with their marketing strategy by analyzing their marketing campaign results and customer information. For part 2A of this project, we are looking at the objective "Boost gross revenue by 10% by January 30, 2023." The key performance indicators (KPIs) that will be used to measure progress towards this objective are customer segmentation metrics and customer retention metrics.
+In this project I explored a dataset from Kaggle named "Marketing Campaign" in MySQL Workbench. The overall goal of this project is to help a grocery store with their marketing strategy by analyzing their marketing campaign results and customer information. For part 2 of this project, we are looking at the objective "Boost gross revenue by 10% by January 30, 2023." The key performance indicators (KPIs) that will be used to measure progress towards this objective are customer segmentation metrics and customer retention metrics.
 
 Link to the dataset: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
 
